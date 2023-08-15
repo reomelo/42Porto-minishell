@@ -2,7 +2,7 @@
 
 #### Project done in collaboration with <a href="https://github.com/richardmarcela">Marcela Richard </a>
 
-![Screenshot from 2023-08-15 12-49-43](https://github.com/reomelo/42Porto-minishell/assets/73884501/4c6f4265-25a0-44bf-add6-ec90f6f23c2f)
+![Screenshot from 2023-08-15 12-49-43](https://github.com/reomelo/42Porto-minishell/assets/73884501/bb1d43c3-da7f-4844-a7c1-702e394f2743)
 
 ### Installing and running the project:
 1- Installing minishell dependencies:  
